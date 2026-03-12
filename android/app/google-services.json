@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401737450959",
+    "project_id": "bill-flow-81cf0",
+    "storage_bucket": "bill-flow-81cf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401737450959:android:6c8024747b7d83151afeba",
+        "android_client_info": {
+          "package_name": "com.jarvikktech.BillFlow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdE-wxewk_by6ZxqQMGwvFbWkO8e12vSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
